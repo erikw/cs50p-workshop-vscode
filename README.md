@@ -47,7 +47,7 @@ So far you have only seen a glimpse of what it can do in the regular CS50 proble
     * Create directories for all weeks:
         *
         ```shell
-        $ mkdir 0_functions_variables 1_conditionals 2_loops 3_exceptions 4_libraries 5_unit_tests 6_file_io 7_regular_expressions 8_object-oriented_programming 
+        mkdir 0_functions_variables 1_conditionals 2_loops 3_exceptions 4_libraries 5_unit_tests 6_file_io 7_regular_expressions 8_object-oriented_programming 
         ```
     * Drag-and-drop the problem directories in to the right folder according to which week they belong to:
         <details>
