@@ -13,14 +13,15 @@ So far you have only seen a glimpse of what it can do in the regular CS50 proble
 
 
 
-## Steps
+## Instructions
 **First step**: click the "Fork" button in the top right corner of the repo, to create your own version of this repo. Then you can use the below check-list to complete the tasks.
 
 *Then in your own fork:*
-* Check off the tasks below as you complete them by putting an `x` in the square brackets like `- [x]`:
+* Check off the tasks below as you complete them by putting an `x` in the square brackets like `- [x]`.
 > [!IMPORTANT]
-> Any link below, right click and "open in new tab" to keep this editor open.
+> Any link below, right click and "*open in new tab*" to keep this editor open.
 
+## Steps
 - [ ] Open VS Code as usual at [cs50.dev](https://cs50.dev/)
 
 - [ ] Try out these keyboard shortcuts:
